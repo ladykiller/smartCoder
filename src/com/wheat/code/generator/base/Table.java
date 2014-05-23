@@ -1,4 +1,4 @@
-package com.wheat.code.pojo;
+package com.wheat.code.generator.base;
 
 import java.util.List;
 

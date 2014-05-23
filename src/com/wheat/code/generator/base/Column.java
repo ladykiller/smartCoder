@@ -1,4 +1,4 @@
-package com.wheat.code.pojo;
+package com.wheat.code.generator.base;
 
 public class Column  extends AppObject{
 

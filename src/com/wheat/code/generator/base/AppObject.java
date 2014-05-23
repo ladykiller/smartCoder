@@ -1,4 +1,4 @@
-package com.wheat.code.pojo;
+package com.wheat.code.generator.base;
 
 import com.wheat.code.inter.Resource;
 import com.wheat.code.utils.JsonUtil;
